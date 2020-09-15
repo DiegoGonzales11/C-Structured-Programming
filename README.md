@@ -1,4 +1,4 @@
-# C for Everyone: Structured Programming
+# C for dadasda Everyone: Structured Programming
 
 ## Welcome
 Here you will found the excercises and my solutions of the assignments. This is about the course **C for everyone: Structured Programming**, this is a popular course at the **University of Califormia, Santa Cruz**, It's available on [COURSERA](https://www.coursera.org/learn/c-structured-programming/home/welcome).
